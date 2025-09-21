@@ -2,7 +2,7 @@
 
 This document describes the authentication system implemented in the frontend application.
 
-## Features
+## Features:- 
 
 - **User Sign In**: Users can sign in with email and password
 - **Protected Routes**: Chat functionality is protected and requires authentication
